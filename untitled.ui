@@ -174,11 +174,22 @@
      <string>Save Entry</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>373</x>
+      <y>0</y>
+      <width>101</width>
+      <height>34</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Show Records</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources>
-  <include location="car.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
